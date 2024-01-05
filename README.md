@@ -38,7 +38,7 @@ const Aryan lamba  = {
 
 <p align="center">
   <a href="https://github.com/lambaaryan011">
-    <img title="GitHub Stats" alt="Aryan's streak" src="https://streak-stats.demolab.com/?user=Nj221102&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+    <img title="GitHub Stats" alt="Aryan's streak" src="https://streak-stats.demolab.com/?user=lambaaryan011&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   </a>
 </p>
 
@@ -47,7 +47,7 @@ const Aryan lamba  = {
     <img alt="Aryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lambaaryan011&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="150px"/>
   </a>
   <a href="https://github.com/lambaaryan011">
-    <img alt="aryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nj221102&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="150px"/>
+    <img alt="aryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambaaryan011&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="150px"/>
   </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -55,6 +55,6 @@ const Aryan lamba  = {
 
 
 
-[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nj221102&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Nj221102/github-readme-activity-graph)
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lambaaryan011&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Nj221102/github-readme-activity-graph)
 <h3 align="center">Visitor's count</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{Nj221102}/count.svg/" alt="Nj221102 Visitor's count" /></p>
