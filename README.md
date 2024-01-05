@@ -4,7 +4,7 @@
 </em></p>
 
 [![Insta: aryan](https://img.shields.io/twitter/follow/aryanlamba5566?style=social)](https://twitter.com/aky241005) &nbsp;&nbsp;
-[![Linkedin:aryan lamba ]https://www.linkedin.com/in/aryan-lamba-1b2769292/ &nbsp;&nbsp;
+
 <a href="https://leetcode.com/aryan_lamba011/">
     <img src="https://img.shields.io/badge/-LeetCode-black?style=social&logo=Leetcode" alt="Leetcode badge">
 </a> &nbsp;&nbsp;
@@ -37,8 +37,8 @@ const Aryan lamba  = {
 ##                        🔥 GitHub stats:
 
 <p align="center">
-  <a href="https://github.com/Nj221102">
-    <img title="GitHub Stats" alt="Nitish's streak" src="https://streak-stats.demolab.com/?user=Nj221102&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <a href="https://github.com/lambaaryan011">
+    <img title="GitHub Stats" alt="Aryan's streak" src="https://streak-stats.demolab.com/?user=Nj221102&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   </a>
 </p>
 
@@ -46,7 +46,7 @@ const Aryan lamba  = {
   <a href="https://github.com/lambaaryan011">
     <img alt="Aryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lambaaryan011&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="150px"/>
   </a>
-  <a href="https://github.com/Nj221102">
+  <a href="https://github.com/lambaaryan011">
     <img alt="aryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nj221102&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="150px"/>
   </a>
   <br/>
@@ -55,6 +55,6 @@ const Aryan lamba  = {
 
 
 
-[![Nitish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nj221102&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Nj221102/github-readme-activity-graph)
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nj221102&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Nj221102/github-readme-activity-graph)
 <h3 align="center">Visitor's count</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{Nj221102}/count.svg/" alt="Nj221102 Visitor's count" /></p>
