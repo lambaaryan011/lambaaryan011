@@ -3,8 +3,8 @@
 <p><em> Student at <a href="https://www.functionupuniversity.com/">FunctionUp School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring : Multimodal communication models <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Insta: aryan](https://img.shields.io/twitter/follow/nitishjha5566?style=social)](https://twitter.com/aky241005) &nbsp;&nbsp;
-[![Linkedin:aryan lamba ](https://img.shields.io/badge/Linkdin-nitish_Jha-blue)](https://www.linkedin.com/in/akhilesh-kr-yadav) &nbsp;&nbsp;
+[![Insta: aryan](https://img.shields.io/twitter/follow/aryanlamba5566?style=social)](https://twitter.com/aky241005) &nbsp;&nbsp;
+[![Linkedin:aryan lamba ](https://img.shields.io/badge/Linkdin-nitish_Jha-blue)]https://www.linkedin.com/in/aryan-lamba-1b2769292/ &nbsp;&nbsp;
 <a href="https://leetcode.com/Nitishj221102/">
     <img src="https://img.shields.io/badge/-LeetCode-black?style=social&logo=Leetcode" alt="Leetcode badge">
 </a> &nbsp;&nbsp;
