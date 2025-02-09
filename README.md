@@ -15,7 +15,7 @@
 ```javascript
 const Aryan lamba  = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java,reactjs,python  ],
+  code: [Javascript, Typescript, HTML, CSS, Java,Reactjs,Python  ],
   tools: [  Node, Docker],
   
   techCommunities: {
