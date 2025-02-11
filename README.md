@@ -1,6 +1,6 @@
 <h2> Hi, I'm Aryan Lamba.!  <img src="https://media.giphy.com/media/WUm2STzv0N5fl3ezyr/giphy.gif" width="50"></h2>
 <img align='right' src="output-onlinegiftools.gif" width="240">
-<p><em> Student at <a href="https:https://polariscampus.com/">polaris  School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring : Multimodal communication models <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> Student at <a href="https:https://polariscampus.com/">polaris  School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring :blockchain and llm models <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Insta: aryan](https://img.shields.io/twitter/follow/aryanlamba5566?style=social)](https://twitter.com/Aryanlamba011) &nbsp;&nbsp;
