@@ -13,17 +13,39 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Aryan lamba  = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java,Reactjs,Python  ],
-  tools: [  Node, Docker],
+const AryanLamba = {
+  pronouns: ["he", "him"],
+  languages: ["JavaScript", "TypeScript", "HTML", "CSS", "Java", "Python"],
   
+  frameworks: {
+    frontend: ["React.js", "Next.js"],
+    backend: ["Node.js"],
+    AI_ML: ["TensorFlow", "PyTorch"]
+  },
+  
+  tools: ["Docker", "Git", "Postman"],
+
   techCommunities: {
-                        Assistanct:(Training and placement club: "polaris school of technology",
-                        speaker: "TPC polaris "&&"Debate"
- focused on MERN, Besides DSA"
- Hobbies: " Sport ,coding & Spend time with friend"
-}
+    Assistant: "Polaris School of Technology - Training and Placement Club",
+    Speaker: ["TPC Polaris", "Debate Club"]
+  },
+
+  focusAreas: ["MERN Stack", "Next.js", "AI/ML", "LLMs", "Bitcoin Protocol", "DSA"],
+
+  interests: {
+    artificialIntelligence: {
+      fields: ["Machine Learning", "Deep Learning", "Natural Language Processing (NLP)"],
+      technologies: ["LLMs (Large Language Models)", "Computer Vision"]
+    },
+    blockchain: {
+      topics: ["Bitcoin Protocol", "Decentralized Applications"],
+      applications: ["Smart Contracts", "Web3 Development"]
+    }
+  },
+
+  hobbies: ["Sports", "Coding", "Spending time with friends"]
+};
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
